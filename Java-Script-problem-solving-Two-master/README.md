@@ -9,7 +9,7 @@ Each question focuses on a specific concept and includes both the **problem stat
 
 1. **For Loop with Continue**  
    Print numbers from 1 to 10, skipping those divisible by 3.
-
+   
 2. **While Loop – Sum of Numbers**  
    Use a `while` loop to calculate the sum from 1 to 100.
 
