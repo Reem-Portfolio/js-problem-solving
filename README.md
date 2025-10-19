@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🧠 JavaScript Problem Solving
 
 A collection of **JavaScript problem-solving exercises** and solutions — designed to strengthen your logic, algorithmic thinking, and core JavaScript skills.  
@@ -51,3 +52,7 @@ This collection was built to:
 ## 🧠 Author
 **Reem Haitham**  
 Front-End Developer | Passionate about logic, clean code, and creativity 💛
+=======
+# js-problem-solving
+"A collection of JavaScript coding challenges and logical problem-solving exercises to improve algorithmic thinking."
+>>>>>>> 6cddecfad465ed8a8adaa2d46dea2b7f79d8aec0
