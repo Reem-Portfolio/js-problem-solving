@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🧠 JavaScript Problem Solving
 
 A collection of **JavaScript problem-solving exercises** and solutions — designed to strengthen your logic, algorithmic thinking, and core JavaScript skills.  
