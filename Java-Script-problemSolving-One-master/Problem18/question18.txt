@@ -1,0 +1,3 @@
+! 18. Write a function that creates a car object with properties such as `model` and `year’
+! and includes a method to display the car's details.
+! Input: Toyota, 2020 Output: "Model: Toyota, Year: 2020"

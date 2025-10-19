@@ -1,0 +1,6 @@
+! 9. Explain how hoisting works in JavaScript and describe the Temporal Dead Zone (TDZ).
+
+Hoisting:
+Hoisting refers to the behavior where variable and function declarations are moved to the top of their scope during the compile phase.
+Temporal Dead Zone:
+The TDZ is the period between the start of the block scope and the point where a let or const variable is declared. 

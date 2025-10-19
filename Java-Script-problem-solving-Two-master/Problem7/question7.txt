@@ -1,0 +1,1 @@
+    7. Write a function that accepts multiple parameters (two or more) and returns their sum.

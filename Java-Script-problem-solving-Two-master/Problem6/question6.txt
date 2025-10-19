@@ -1,0 +1,2 @@
+    6. Use the spread operator to merge two arrays, then return the merged array.
+

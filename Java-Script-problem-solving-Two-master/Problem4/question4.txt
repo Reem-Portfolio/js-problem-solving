@@ -1,0 +1,9 @@
+    4. Explain the difference between `forEach` and `for...of` loops in JavaScript.
+    forEach:
+    Works on arrays.
+    Passes the element, index, and entire array as parameters to the callback.
+    It doesn't break or return early from the loop
+
+    for...of:
+    Works on iterable objects (arrays, strings, maps, sets, etc.).
+    Allows the use of break, continue, and return statements.

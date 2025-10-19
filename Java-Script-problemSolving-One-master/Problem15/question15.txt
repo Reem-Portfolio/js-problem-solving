@@ -1,0 +1,2 @@
+! 15. Write a function that sorts an array of numbers in ascending order.
+! Input: [5, 3, 8, 1, 2] Output: [1, 2, 3, 5, 8]

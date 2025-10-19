@@ -1,0 +1,3 @@
+! 2. Write a function that checks if a number is prime (a number that can only be divided
+! by 1 and itself without any remainder).
+! Input: 7 Output: true

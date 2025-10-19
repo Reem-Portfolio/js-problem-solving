@@ -1,0 +1,2 @@
+! 17. Write a function that removes all falsy values (`false`, `null`, `0`, `""`, `undefined`, and `NaN`) from an array.
+! Input: [0, false, "Hello", "", null, undefined, NaN, 42] Output: ["Hello", 42]

@@ -1,0 +1,2 @@
+! 8. Write a function that determines whether a given day number (1-7) represents a weekday or weekend.
+! Input: 5 Output: "Weekday" Input: 7 Output: "Weekend"

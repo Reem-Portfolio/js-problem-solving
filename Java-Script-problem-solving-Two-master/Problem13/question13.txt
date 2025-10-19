@@ -1,0 +1,1 @@
+13. Create a function that returns a promise, which resolves if a random number is greater than 5, otherwise it rejects.
